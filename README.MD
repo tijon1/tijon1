@@ -1,2 +1,5 @@
-# Hi, I am tijon
-I really like modern C++.
+# Hi, I am tijon.
+**I'm a C++ enjoyer under the name of tijon, living in Estonia.**
+
+I don't have any public repositories to show off, but I do babble a lot about fun technical stuff.
+Currently working on Rocktactics.
